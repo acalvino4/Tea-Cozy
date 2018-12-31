@@ -65,7 +65,7 @@ nav a:hover {
 /* Main landing & mission statement */
 
 header {
-    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
+    background-image: url(img-mission-background.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -129,7 +129,7 @@ header h2,h4 {
 #locations {
     max-width: 1200px;
     min-height: 600px;
-    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg);
+    background-image: url(img-locations-background.jpg);
     background-position: right;
     background-size: cover;
     background-repeat: no-repeat;

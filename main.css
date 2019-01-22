@@ -62,6 +62,12 @@ nav a:hover {
     }
 }
 
+@media only screen and (max-width:460px) {
+    nav ul {
+        display: none;
+    }
+}
+
 /* Main landing & mission statement */
 
 header {
